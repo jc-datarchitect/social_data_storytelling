@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6b5142c7-e39e-43ca-8cb6-58c7b39ce11e" width="100%" alt="Social Education vs Hate Crimes Cover">
 
-<h1>Can Education Curb Hate?<br>Hate Crimes, Education, and Tolerance: A Data-Driven Reading</h1>
+<h1>Can Education Prevent Hate?<br>Hate Crimes, Education, and Tolerance: A Data-Driven Reading</h1>
 
   <br>
 
@@ -12,11 +12,11 @@
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
-**Social Education vs. Hate Crimes** is an advanced data storytelling and empirical investigation that addresses a profound socio-statistical paradox: *An increase in the historical registry of hate crimes does not necessarily reflect an increase in baseline violence, but rather a higher civic willingness to report incidents*. 
+**Can Education Prevent Hate?** is an empirical data science investigation and strategic data storytelling framework developed as a Master's Final Project and awarded **"Matrícula de Honor" (Highest Honors, 9.9/10)**. The investigation is designed to confront a significant socio-statistical paradox: *an ongoing statistical increase in the historical registry of hate crimes does not necessarily denote a rise in structural violence, but rather a profound shift in civic willingness to identify and report incidents.*
 
-Awarded **"Matrícula de Honor" (Highest Honors, 9.9/10)**, the system systematically blends national law enforcement microdata from Spain with international educational metrics from the OECD (PISA 2022). By leveraging programmatic data pipelines, the project demonstrates how highly educated frameworks and multicultural awareness act as structural catalysts for civil rights defense, shifting the focus from purely descriptive criminal statistics to predictive socio-educational correlations.
+By building a programmatic data pipeline that blends a decade of complex law enforcement microdata from Spain with international educational attainment metrics and secondary school environment benchmarks (OECD-PISA 2022), this repository moves past purely descriptive criminal metrics. Instead, it establishes an analytical narrative demonstrating how highly educated frameworks and multicultural awareness act as structural catalysts for civil rights defense, successfully mitigating underreporting (*cifra negra*) and shifting the focus toward predictive socio-educational correlations.
 
 ---
 
