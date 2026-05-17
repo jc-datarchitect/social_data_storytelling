@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1cb297c6-2cfd-44ae-bb9e-e385ab79dd69" width="100%" alt="Social Education vs Hate Crimes Cover">
+  <img src="https://github.com/user-attachments/assets/6b5142c7-e39e-43ca-8cb6-58c7b39ce11e" width="100%" alt="Social Education vs Hate Crimes Cover">
 
-  <h1>Social Education vs. Hate Crimes: An Empirical Analysis in Spain and the EU</h1>
+  <h1>Can Education Curb Hate? Hate Crimes, Education, and Tolerance: A Data-Driven Reading</h1>
 
   <p><i>"The outlier is a person"</i></p>
   
