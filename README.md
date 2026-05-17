@@ -88,7 +88,7 @@ A longitudinal overview of total registered incidents establishes the foundation
 Breaking down the aggregate metrics into specific discriminatory typologies reveals that the drivers behind these records are heavily stratified.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6b5142c7-e39e-43ca-8cb6-58c7b39ce11e" width="100%" alt="Distribución por Tipología de Delitos de Odio">
+  <img src="https://github.com/user-attachments/assets/cea638bc-af60-40a8-8af1-a4511a3d6c75" width="100%" alt="Distribución por Tipología de Delitos de Odio">
 </div>
 
 * **Dominance of Racism and Xenophobia:** This typology consistently concentrates the highest absolute volume of hate crimes throughout the entire decade, reinforcing its place as the primary frontier for social intervention.
@@ -102,7 +102,7 @@ Breaking down the aggregate metrics into specific discriminatory typologies reve
 A direct comparison between the endpoints of the decade (2014 vs. 2024) isolates the exact velocity and direction of each independent typology.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6b5142c7-e39e-43ca-8cb6-58c7b39ce11e" width="100%" alt="Diferencia en Incidentes de Odio: 2014 vs 2024">
+  <img src="https://github.com/user-attachments/assets/45f2249f-42e4-4f2d-9ff7-65d4b1c0bd79" width="100%" alt="Diferencia en Incidentes de Odio: 2014 vs 2024">
 </div>
 
 * **Asymmetric Absolute Growth:** Racism and xenophobia lead the decade's increase with an absolute growth of +380 incidents, cementing its status as the most statistically expansive category.
@@ -116,7 +116,7 @@ A direct comparison between the endpoints of the decade (2014 vs. 2024) isolates
 Mapping the geographic density of registered incidents transitions the analysis from a temporal dimension to a spatial framework, identifying key regional hotspots.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6b5142c7-e39e-43ca-8cb6-58c7b39ce11e" width="100%" alt="Distribución Geográfica de Delitos de Odio">
+  <img src="https://github.com/user-attachments/assets/156b47ef-d101-4022-bbe0-c9c116207edd" width="100%" alt="Distribución Geográfica de Delitos de Odio">
 </div>
 
 * **Geographical Clustering:** The relative incidence rate per 100,000 inhabitants exposes significant territorial disparities, identifying clear regional clusters with higher concentrations of registered cases (such as the Basque Country and Navarre).
