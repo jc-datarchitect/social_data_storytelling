@@ -63,6 +63,16 @@ The production pipeline integrates three official datasets to cross-examine crim
 
 ---
 
+## Execution & Local Deployment
+
+To run the complete ETL, data blending, and predictive visualizations locally inside the production pipeline:
+
+1. Clone this repository locally.
+2. Ensure you download the national criminal microdata file manually as specified in the [Data Sources](#-data-sources--institutional-providers) section due to file size limitations.
+3. Launch your local environment and execute the notebook: `notebooks/data_storytelling_notebook.ipynb`.
+
+---
+
 ## Phase 1: National Hate Crime Dynamics (2014–2024)
 
 This initial analytical phase dissects a decade of raw institutional records from Spain’s Ministry of the Interior. Instead of reading these metrics as a simple volume of violence, the data pipeline uncovers a complex sociostatistical behavior driven by institutional transparency, legislative updates, and reporting willingness.
@@ -217,15 +227,5 @@ Statistical models, regression analysis, and behavioral matrices provide necessa
 > **"The outlier is also a person. Data explains trends, but it does not justify hate."**
 >
 > Every data point representing a registered incident contains an individual story of discrimination. The ultimate purpose of leveraging big data and analytics within sociological frameworks is not merely descriptive; it is a strategic tool to build actionable equity, optimize protective public policies, and protect civil rights.
-
----
-
-## Execution & Local Deployment
-
-To run the complete ETL, data blending, and predictive visualizations locally inside the production pipeline:
-
-1. Clone this repository locally.
-2. Ensure you download the national criminal microdata file manually as specified in the [Data Sources](#-data-sources--institutional-providers) section due to file size limitations.
-3. Launch your local environment and execute the notebook: `notebooks/data_storytelling_notebook.ipynb`.
 
 ---
