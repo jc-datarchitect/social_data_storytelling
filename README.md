@@ -178,29 +178,54 @@ By merging both distinct metrics into a four-quadrant matrix, the data pipeline 
 
 ---
 
+## Phase 3: The Behavioral Mechanism & Executive Conclusions
 
+To finalize the statistical narrative, the analysis bridges macro-demographics with institutional actions. This phase formalizes the reporting mechanism and delivers the empirical conclusions of the investigation.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e330b4f6-8345-4ef0-ab2e-159cc6db89ac" width="100%" alt="The Socio-Institutional Data Mechanism">
+</div>
 
-
-
+* **The Social Dimension:** Structural hate and everyday conflicts organically scale into explicit discriminatory behaviors within public and private spaces.
+* **The Socio-Educational Catalyst:** Highly educated frameworks and active multicultural awareness do not reduce the presence of conflict; instead, they function as cognitive lenses that help citizens identify micro-aggressions.
+* **The Institutional Outcome:** This heightened civic capacity directly triggers formal reporting and legal classification, expanding the statistical registry to expose problems that previously remained hidden (*cifra negra*).
 
 ---
 
+### Key Empirical Findings
+
+The empirical integration of law enforcement data and international educational benchmarks establishes three definitive conclusions:
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d36d720a-b983-4467-b26d-8f45b7d1f174" width="100%" alt="Executive Analytical Conclusions">
+</div>
+
+1. **Visibility Over Violence:** An expanding historical registry of hate crimes does not necessarily confirm an increase in structural violence. Instead, it reflects a profound shift in civic willingness to identify, reject, and report incidents.
+2. **Education Demolishes Underreporting:** Robust socio-educational ecosystems and multicultural awareness act as primary catalysts for reporting, successfully pulling hidden crimes out of historical invisibility and bringing them into official registries.
+3. **The Hidden Bias of Low Registries:** Conversely, regions displaying exceptionally low reporting rates or stagnant trends do not guarantee a safer social environment. Instead, they often mask severe institutional underreporting, structural barriers, or systemic marginalization.
 
 ---
 
-## Data Storytelling & Visualizations
-The analytical pipeline follows a structured **Martini Glass narrative architecture**, driving the user from macro-historical trends down to specialized multi-variable correlations.
+### Final Reflection: Humanizing the Data
 
-### Phase 1: The Historical Trend & Anomalies
-Using programmatic time-series analysis, this phase maps the evolution of hate crimes in Spain, isolating external sociopolitical shocks.
-* **Key Finding:** A clear, continuous upward trajectory peaking significantly in 2023, with a distinct structural drop in 2020 caused by COVID-19 mobility restrictions. This baseline forms the foundation of the reporting paradox.
+Statistical models, regression analysis, and behavioral matrices provide necessary frameworks to analyze systemic trends. However, predictive data science must maintain its ethical foundation when assessing human conflict.
 
-```text
-[INSERT CAPTURE: 01_historical_trend.png]
-*Figure 1: Longitudinal evolution of registered hate crimes in Spain (2014-2023).*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/60c619b9-b3ef-479e-a12b-08518375da15" width="100%" alt="An Outlier is Also a Person">
+</div>
 
+> **"The outlier is also a person. Data explains trends, but it does not justify hate."**
+>
+> Every data point representing a registered incident contains an individual story of discrimination. The ultimate purpose of leveraging big data and analytics within sociological frameworks is not merely descriptive; it is a strategic tool to build actionable equity, optimize protective public policies, and protect civil rights.
 
+---
 
+## Execution & Local Deployment
 
+To run the complete ETL, data blending, and predictive visualizations locally inside the production pipeline:
 
+1. Clone this repository locally.
+2. Ensure you download the national criminal microdata file manually as specified in the [Data Sources](#-data-sources--institutional-providers) section due to file size limitations.
+3. Launch your local environment and execute the notebook: `notebooks/data_storytelling_notebook.ipynb`.
+
+---
