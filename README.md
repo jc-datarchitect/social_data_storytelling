@@ -151,7 +151,7 @@ To interpret the structural rise in reported hate crimes, the analytical pipelin
 A comparative analysis of tertiary educational attainment across the European Union establishes Spain's baseline structural asset.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/303c3ba9-d786-4ffa-aa01-23d0dea0e7e4" width="120%" alt="Proporción del Nivel Educativo Superior en España">
+  <img src="https://github.com/user-attachments/assets/303c3ba9-d786-4ffa-aa01-23d0dea0e7e4" width="140%" alt="Proporción del Nivel Educativo Superior en España">
 </div>
 
 * **Above-Average Educational Capital:** Spain significantly surpasses the European Union baseline, with **42.0%** of its population (ages 25–64) holding a higher education degree compared to the EU average of **36.1%** (+5.9% advantage).
@@ -165,7 +165,7 @@ A comparative analysis of tertiary educational attainment across the European Un
 Transitioning from formal degrees to institutional environments, this section utilizes secondary school microdata to measure active multicultural empathy.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ce94e4da-aea5-416f-b4d9-604c2ffc0e1e" width="120%" alt="Conciencia Social y Multicultural en Centros Educativos - PISA 2022">
+  <img src="https://github.com/user-attachments/assets/ce94e4da-aea5-416f-b4d9-604c2ffc0e1e" width="140%" alt="Conciencia Social y Multicultural en Centros Educativos - PISA 2022">
 </div>
 
 * **The Zero-Baseline Benchmark:** The 0-axis represents the standardized OECD baseline, serving as a clean reference point to divide positive and negative regional deviations.
