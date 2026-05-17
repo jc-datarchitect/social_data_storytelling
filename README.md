@@ -20,17 +20,18 @@ By building a programmatic data pipeline that blends a decade of complex law enf
 
 ---
 
-## Project Architecture
-The repository is strictly structured to separate raw data infrastructure, reproducible computation, and executive documentation:
+## Repository Architecture
+
+The infrastructure of this repository is strictly organized to ensure computational reproducibility, clean separation of concerns, and immediate access to executive documentation:
 
 ```text
 ├── data/
-│   ├── nivfor_1_04.csv          # EU Educational attainment dataset (Local)
-│   └── CY08MSP_SCH_QQQ.SAV      # OECD PISA 2022 School Questionnaire (Local)
+│   ├── nivfor_1_04.csv                  # EU Educational attainment dataset (Local)
+│   └── CY08MSP_SCH_QQQ.SAV              # OECD PISA 2022 School Microdata (SPSS format)
 ├── notebooks/
-│   └── data_storytelling_notebook.ipynb  # Comprehensive production Pipeline
-└── documentation/
-    └── data_storytelling_presentation.pptx      # Executive Slides & Theoretical Framework
+│   └── data_storytelling_notebook.ipynb # Production Pipeline (ETL, EDA, Merges, Analytics)
+├── documentation/
+│   └── data_storytelling_presentation.pptx # Executive Slides & Theoretical Framework
 
 ---
 
@@ -44,6 +45,15 @@ Due to GitHub's file size limitations, the primary national security dataset exc
    * **Source:** *Ministerio para la Transformación Digital y de la Función Pública*. Population aged 25–64 in the EU by urbanization degree, gender, and higher education level (2024).
 3. **OECD PISA 2022 Dataset (`CY08MSP_SCH_QQQ.SAV`):**
    * **Source:** *Organisation for Economic Co-operation and Development (OECD)*. School questionnaire data evaluating the Multicultural and Social Awareness Index (`DMCVIEWS`).
+
+### Large Files & Storage Notice
+
+Due to GitHub's file size thresholds, the primary national criminal registry dataset exceeds **100 MB** and has been documented externally to preserve repository optimization:
+
+* **Hate Crimes Microdata (`06001.csv`) [~160 MB]:** Extracted from the *Portal Estadístico de Criminalidad (Ministerio del Interior, Gobierno de España)*. To execute the production pipeline locally, download the microdata archive from the official institutional portal and place it under the `/data` directory using this exact filename string.
+
+---
+
 
 ---
 
