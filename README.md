@@ -63,7 +63,66 @@ The production pipeline integrates three official datasets to cross-examine crim
 
 ---
 
+## Phase 1: National Hate Crime Dynamics (2014–2024)
 
+This initial analytical phase dissects a decade of raw institutional records from Spain’s Ministry of the Interior. Instead of reading these metrics as a simple volume of violence, the data pipeline uncovers a complex sociostatistical behavior driven by institutional transparency, legislative updates, and reporting willingness.
+
+---
+
+### 1. Recent Evolution of a Persistent Phenomenon
+
+A longitudinal overview of total registered incidents establishes the foundational baseline of the paradox: a steady upward trajectory in raw data, interrupted only by global macroeconomic anomalies.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9c7167ab-4eaf-45a7-9ca5-b35a4598fc69" width="100%" alt="Evolución Anual de los Delitos de Odio en España">
+</div>
+
+* **Structural Upward Trend:** Registered incidents exhibit an unbroken growth trajectory since 2014, showing that the phenomenon has gained massive statistical visibility over the last decade.
+* **The 2020 Pandemic Anomaly:** A sharp, temporary drop occurs in 2020. This systemic deceleration directly correlates with COVID-19 mobility restrictions, lockdowns, and the temporary suppression of public and physical social interactions.
+* **Historical Peak (2023):** The registry reaches its absolute historical maximum in 2023 with 2,268 cases. This milestone underpins the core thesis: greater civic awareness and streamlined institutional reporting channels actively pull hidden incidents out of the *cifra negra* (underreporting).
+
+---
+
+### 2. Hate is Not Homogeneous
+
+Breaking down the aggregate metrics into specific discriminatory typologies reveals that the drivers behind these records are heavily stratified.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6b5142c7-e39e-43ca-8cb6-58c7b39ce11e" width="100%" alt="Distribución por Tipología de Delitos de Odio">
+</div>
+
+* **Dominance of Racism and Xenophobia:** This typology consistently concentrates the highest absolute volume of hate crimes throughout the entire decade, reinforcing its place as the primary frontier for social intervention.
+* **Sustained Growth in LGBTQI+ Discrimination:** Incidents tied to sexual orientation and gender identity display an aggressive and steady percentage increase, marking a profound shift in victims' willingness to report offenses to law enforcement.
+* **Multi-Dynamic Overlap:** The overall national increase is not caused by a single uniform factor, but rather by the simultaneous overlap of multiple distinct social dynamics running on different tracks.
+
+---
+
+### 3. Not All Forms of Hate Evolve Similarly
+
+A direct comparison between the endpoints of the decade (2014 vs. 2024) isolates the exact velocity and direction of each independent typology.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6b5142c7-e39e-43ca-8cb6-58c7b39ce11e" width="100%" alt="Diferencia en Incidentes de Odio: 2014 vs 2024">
+</div>
+
+* **Asymmetric Absolute Growth:** Racism and xenophobia lead the decade's increase with an absolute growth of +380 incidents, cementing its status as the most statistically expansive category.
+* **Emergence of Specific Vectors:** Gender-based discrimination (+188) and ideological motives (+152) showcase significant upward shifts, reflecting how legislative frameworks and social awareness have successfully formalized these definitions over time.
+* **Divergent Trajectories:** While most categories expand, certain typologies display moderate stagnation or isolated drops (such as disability-related crimes or religious beliefs), demonstrating that independent social contexts drive different forms of hate.
+
+---
+
+### 4. Territorial Incidence of Hate
+
+Mapping the geographic density of registered incidents transitions the analysis from a temporal dimension to a spatial framework, identifying key regional hotspots.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6b5142c7-e39e-43ca-8cb6-58c7b39ce11e" width="100%" alt="Distribución Geográfica de Delitos de Odio">
+</div>
+
+* **Geographical Clustering:** The relative incidence rate per 100,000 inhabitants exposes significant territorial disparities, identifying clear regional clusters with higher concentrations of registered cases (such as the Basque Country and Navarre).
+* **Socio-Contextual Catalysts:** These regional variances do not automatically imply a higher baseline of structural hatred in those areas. Instead, they reflect the presence of localized social variables, highly active regional victim-support networks, and variations in law enforcement training regarding hate crime identification.
+
+---
 
 
 
