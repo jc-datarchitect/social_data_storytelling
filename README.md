@@ -3,8 +3,6 @@
 
 <h1>Can Education Curb Hate?<br>Hate Crimes, Education, and Tolerance: A Data-Driven Reading</h1>
 
-  <p><i>"The outlier is a person"</i></p>
-  
   <br>
 
   [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
