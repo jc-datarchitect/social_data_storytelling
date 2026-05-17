@@ -69,7 +69,7 @@ This initial analytical phase dissects a decade of raw institutional records fro
 
 ---
 
-### 1. Recent Evolution of a Persistent Phenomenon
+### 1.1. Recent Evolution of a Persistent Phenomenon
 
 A longitudinal overview of total registered incidents establishes the foundational baseline of the paradox: a steady upward trajectory in raw data, interrupted only by global macroeconomic anomalies.
 
@@ -83,7 +83,7 @@ A longitudinal overview of total registered incidents establishes the foundation
 
 ---
 
-### 2. Hate is Not Homogeneous
+### 1.2. Hate is Not Homogeneous
 
 Breaking down the aggregate metrics into specific discriminatory typologies reveals that the drivers behind these records are heavily stratified.
 
@@ -97,7 +97,7 @@ Breaking down the aggregate metrics into specific discriminatory typologies reve
 
 ---
 
-### 3. Not All Forms of Hate Evolve Similarly
+### 1.3. Not All Forms of Hate Evolve Similarly
 
 A direct comparison between the endpoints of the decade (2014 vs. 2024) isolates the exact velocity and direction of each independent typology.
 
@@ -111,7 +111,7 @@ A direct comparison between the endpoints of the decade (2014 vs. 2024) isolates
 
 ---
 
-### 4. Territorial Incidence of Hate
+### 1.4. Territorial Incidence of Hate
 
 Mapping the geographic density of registered incidents transitions the analysis from a temporal dimension to a spatial framework, identifying key regional hotspots.
 
@@ -123,6 +123,64 @@ Mapping the geographic density of registered incidents transitions the analysis 
 * **Socio-Contextual Catalysts:** These regional variances do not automatically imply a higher baseline of structural hatred in those areas. Instead, they reflect the presence of localized social variables, highly active regional victim-support networks, and variations in law enforcement training regarding hate crime identification.
 
 ---
+
+---
+
+## Phase 2: Socio-Educational Mapping & The European Context
+
+To interpret the structural rise in reported hate crimes, the analytical pipeline pivots from penal metrics to regional educational foundations, positioning Spain within the broader European framework. This phase contrasts traditional educational attainment against active institutional and multicultural awareness.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7055d876-bf19-42da-b523-d02e07237f48" width="100%" alt="Socio-Educational Context Pivot">
+</div>
+
+---
+
+### 2.1. Spain in the European Educational Landscape
+
+A comparative analysis of tertiary educational attainment across the European Union establishes Spain's baseline structural asset.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/303c3ba9-d786-4ffa-aa01-23d0dea0e7e4" width="100%" alt="Proporción del Nivel Educativo Superior en España">
+</div>
+
+* **Above-Average Educational Capital:** Spain significantly surpasses the European Union baseline, with **42.0%** of its population (ages 25–64) holding a higher education degree compared to the EU average of **36.1%** (+5.9% advantage).
+* **Strategic Social Asset:** This high concentration of educational capital represents a powerful, pre-existing infrastructure capable of driving civic transformation and human rights advocacy.
+* **A Lever for Intervention:** Rather than a passive academic metric, this widespread educational foundation functions as a highly practical lever for structural intervention against discriminatory frameworks.
+
+---
+
+### 2.2. Spain and the Cross-Cultural Awareness Benchmark
+
+Transitioning from formal degrees to institutional environments, this section utilizes secondary school microdata to measure active multicultural empathy.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ce94e4da-aea5-416f-b4d9-604c2ffc0e1e" width="100%" alt="Conciencia Social y Multicultural en Centros Educativos - PISA 2022">
+</div>
+
+* **The Zero-Baseline Benchmark:** The 0-axis represents the standardized OECD baseline, serving as a clean reference point to divide positive and negative regional deviations.
+* **Strong Multicultural Outlook:** Spain ranks clearly above the international average with an index score of **+0.17**, demonstrating a resilient institutional framework for diversity training and social empathy in its formative stages.
+* **Pronounced European Asymmetry:** The European landscape displays high volatility, ranging from exceptionally high indices (Portugal at +0.35, Malta at +0.29) to severe negative trends in other Member States, proving that social awareness is heavily localized.
+
+---
+
+### 2.3. The Socio-Educational Matrix: Capital vs. Awareness
+
+By merging both distinct metrics into a four-quadrant matrix, the data pipeline uncovers the directional behavior connecting educational investments with human rights reporting.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/33635a12-1f98-418c-a4e8-7d5bb5f087b3" width="100%" alt="Relación entre Proporción de Educación Superior y Conciencia Social">
+</div>
+
+* **The Four-Quadrant Heterogeneity:** European countries scatter across four distinct quadrants, confirming that formal tertiary education rates do not automatically guarantee high multicultural awareness on their own.
+* **Spain's Virtuous Positioning:** Spain positions itself securely inside the **upper-right quadrant (High Higher Education % / High Social Awareness)**. This critical location explains the reporting paradox: its population is uniquely equipped with both the cognitive tools and the civic empathy necessary to identify, reject, and report hate-driven violations.
+* **Deconstructing Hidden Violations:** This layout reinforces the central thesis that a higher registry of hate crimes in highly educated regions is a direct consequence of a robust civic culture dismantling underreporting (*cifra negra*), rather than an increase in real structural violence.
+
+---
+
+
+
+
 
 
 
