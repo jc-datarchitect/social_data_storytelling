@@ -35,22 +35,36 @@ The infrastructure of this repository is strictly organized to ensure computatio
 
 ---
 
-## Data Sources & Reproducibility
-Due to GitHub's file size limitations, the primary national security dataset exceeding 100 MB is documented externally to guarantee repository performance while maintaining absolute reproducibility.
+## Data Sources & Institutional Providers
 
-1. **Hate Crimes Dataset (`06001.csv`) [160 MB]:**
-   * **Source:** *Portal Estadístico de Criminalidad — Ministerio del Interior (Gobierno de España)*. Contains detailed microdata of known hate crime incidents.
-   * **Reproducibility Note:** To execute the notebook locally, download the official source file and place it in the `/data` directory with the exact filename `06001.csv`.
-2. **Educational Attainment Dataset (`nivfor_1_04.csv`):**
-   * **Source:** *Ministerio para la Transformación Digital y de la Función Pública*. Population aged 25–64 in the EU by urbanization degree, gender, and higher education level (2024).
-3. **OECD PISA 2022 Dataset (`CY08MSP_SCH_QQQ.SAV`):**
-   * **Source:** *Organisation for Economic Co-operation and Development (OECD)*. School questionnaire data evaluating the Multicultural and Social Awareness Index (`DMCVIEWS`).
+The production pipeline integrates three official datasets to cross-examine criminal registries against socio-educational frameworks. Below are the technical specifications, storage status, and direct institutional links for reproducibility:
 
-### Large Files & Storage Notice
+### 1. National Hate Crimes Microdata (Spain)
+* **Provider:** *Ministerio del Interior, Gobierno de España – Portal Estadístico de Criminalidad.*
+* **Dataset Concept:** Microdata of registered historical incidents classified by discriminatory typologies and geographical distribution.
+* **Storage Status:** 🔴 **ACTION REQUIRED (External Download)** — Exceeds GitHub size limits (~160 MB).
+* **Filename string in local execution:** `06001.csv` (Must be placed inside the `/data` directory).
+* **Official Access Link:** [Portal Estadístico de Criminalidad - Delitos de Odio](https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/datos.html?type=jaxi&title=Delitos%20de%20odio&path=/Datos6/)
 
-Due to GitHub's file size thresholds, the primary national criminal registry dataset exceeds **100 MB** and has been documented externally to preserve repository optimization:
+### 2. European Educational Attainment Metrics
+* **Provider:** *Ministerio para la Transformación Digital y de la Función Pública, Gobierno de España.*
+* **Dataset Concept:** Longitudinal metrics mapping European Union populations (ages 25–64) segmented by country, gender, degree level, and urbanization rates.
+* **Storage Status:** 🟢 **INCLUDED** — Already tracked in the repository.
+* **Filename string:** `data/nivfor_1_04.csv`
+* **Official Access Link:** [Datos.gob.es - Población de 25 a 64 años en la UE](https://datos.gob.es/es/catalogo/e05230301-poblacion-de-25-a-64-anos-en-la-ue-por-pais-sexo-nivel-de-formacion-grado-de-urbanizacion-y-ano)
 
-* **Hate Crimes Microdata (`06001.csv`) [~160 MB]:** Extracted from the *Portal Estadístico de Criminalidad (Ministerio del Interior, Gobierno de España)*. To execute the production pipeline locally, download the microdata archive from the official institutional portal and place it under the `/data` directory using this exact filename string.
+### 3. OECD PISA 2022 School Microdata
+* **Provider:** *Organization for Economic Co-operation and Development (OECD).*
+* **Dataset Concept:** Global student and institutional background questionnaires, specifically extracted to compute the School Multicultural Awareness Index (`DMCVIEWS`).
+* **Storage Status:** 🟢 **INCLUDED** — Already tracked in the repository (SPSS format).
+* **Filename string:** `data/CY08MSP_SCH_QQQ.SAV`
+* **Official Access Link:** [OECD PISA 2022 Database](https://webfs.oecd.org/pisa2022/index.html)
+
+---
+
+
+
+
 
 ---
 
