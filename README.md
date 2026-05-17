@@ -32,6 +32,7 @@ The infrastructure of this repository is strictly organized to ensure computatio
 │   └── data_storytelling_notebook.ipynb # Production Pipeline (ETL, EDA, Merges, Analytics)
 ├── documentation/
 │   └── data_storytelling_presentation.pptx # Executive Slides & Theoretical Framework
+```
 
 ---
 
