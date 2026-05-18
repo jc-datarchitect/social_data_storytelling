@@ -70,7 +70,7 @@ The production pipeline integrates three official datasets to cross-examine crim
 To run the complete ETL, data blending, and predictive visualizations locally inside the production pipeline:
 
 1. Clone this repository locally.
-2. Ensure you download the national criminal microdata file manually as specified in the [Data Sources](#-data-sources--institutional-providers) section due to file size limitations.
+2. Ensure you download the national criminal microdata file manually as specified in the data sources section due to file size limitations.
 3. Launch your local environment and execute the notebook: `notebooks/data_storytelling_notebook.ipynb`.
 
 ---
