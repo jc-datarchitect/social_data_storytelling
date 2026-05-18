@@ -234,7 +234,7 @@ Statistical models, regression analysis, and behavioral matrices provide necessa
 
 ### Data for Impact & Social Awareness
 
-This repository leverages data science to shed light on hate crimes and explore how education acts as a critical driver for social change. If these insights, exploratory data analysis (EDA), or visualizations helped you better understand this reality—or inspired you not to look away—**consider supporting the project with a ⭐**.
+This repository leverages data science to shed light on hate crimes and explore how education acts as a critical driver for social change. If these insights, exploratory data analysis (EDA), or visualizations helped you better understand this reality (or inspired you not to look away)**consider supporting the project with a ⭐**.
 
 Let's use data to build a more conscious, empathetic, and inclusive society. Feel free to reach out for collaboration!
 
