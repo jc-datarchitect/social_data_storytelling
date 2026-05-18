@@ -231,3 +231,12 @@ Statistical models, regression analysis, and behavioral matrices provide necessa
 > Every data point representing a registered incident contains an individual story of discrimination. The ultimate purpose of leveraging big data and analytics within sociological frameworks is not merely descriptive; it is a strategic tool to build actionable equity, optimize protective public policies, and protect civil rights.
 
 ---
+
+## Data for Impact & Social Awareness
+
+This repository leverages data science to shed light on hate crimes and explore how education acts as a critical driver for social change. If these insights, exploratory data analysis (EDA), or visualizations helped you better understand this reality—or inspired you not to look away—**consider supporting the project with a ⭐**.
+
+Let's use data to build a more conscious, empathetic, and inclusive society. Feel free to reach out for collaboration!
+
+
+
