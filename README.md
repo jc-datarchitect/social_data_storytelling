@@ -27,9 +27,11 @@ By building a programmatic data pipeline that blends a decade of complex law enf
 The infrastructure of this repository is strictly organized to ensure computational reproducibility, clean separation of concerns, and immediate access to executive documentation:
 
 ```text
+├── LICENSE                             # License information
+├── README.md                           # Project documentation
 ├── data/
-│   ├── nivfor_1_04.csv                  # EU Educational attainment dataset (Local)
-│   └── CY08MSP_SCH_QQQ.SAV              # OECD PISA 2022 School Microdata (SPSS format)
+│   ├── nivfor_1_04.csv                 # EU Educational attainment dataset (Local)
+│   └── CY08MSP_SCH_QQQ.SAV             # OECD PISA 2022 School Microdata (SPSS format)
 ├── notebooks/
 │   └── data_storytelling_notebook.ipynb # Production Pipeline (ETL, EDA, Merges, Analytics)
 ├── documentation/
