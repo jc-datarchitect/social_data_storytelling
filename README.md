@@ -27,6 +27,7 @@ By building a programmatic data pipeline that blends a decade of complex law enf
 The infrastructure of this repository is strictly organized to ensure computational reproducibility, clean separation of concerns, and immediate access to executive documentation:
 
 ```text
+social_data_storytelling/
 ├── LICENSE                             # License information
 ├── README.md                           # Project documentation
 ├── data/
